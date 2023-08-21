@@ -8,7 +8,15 @@
 html, body {
     height: 100%;
 }
-
+body{
+    background: linear-gradient(202deg, #cf8c28, #b6b248, #69ba58, #48a3be, #9d44b9, #d84f4f);
+    background-size: 19000% 100%;
+    animation: AnimationName 28s ease infinite;
+}   @keyframes AnimationName {
+    0%{background-position:71% 0%}
+    50%{background-position:30% 100%}
+    100%{background-position:71% 0%}
+}
 .banner {
     width: 100%;
     min-height: 100%;
