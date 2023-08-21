@@ -15,6 +15,7 @@ body{
 }
 
 .bigbody {
+    padding: 10px;
     margin-top: 2%;
     display: grid;
     grid-template-columns: 340px 340px 340px;
