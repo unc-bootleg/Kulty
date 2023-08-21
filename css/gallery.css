@@ -48,13 +48,13 @@ body{
 
 #footer {
     background-color: black;
-    color: #000000;
+    color: #fff;
     width: 100%;
     text-align: center;
     padding: 10px 0;
 }
 
 p {
-    color: #000000;
+    color: #fff;
     overflow: hidden;
 }
