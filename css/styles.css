@@ -48,7 +48,7 @@ body{
 
 .navbar ul li a {
     text-decoration: none;
-    color: #000000;
+    color: #fff;
     text-transform: uppercase;
 }
 
@@ -75,7 +75,7 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center; 
-    color: #000000;
+    color: #fff;
     margin-bottom: 80px;
 }
 
@@ -98,7 +98,7 @@ button {
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #aaccef;
+    border: 2px solid #000;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -139,7 +139,7 @@ button:hover {
 p {
     margin-top: 25px;
     font-size: 35px;
-    color: #000000;
+    color: #fff;
     margin-bottom: 20px;
 }
 
